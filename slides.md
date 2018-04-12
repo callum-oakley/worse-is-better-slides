@@ -22,7 +22,7 @@
 
 - but C won the race
 
-- therefore "worse is better"
+- therefore worse is better
 
 - you write [an essay][] describing the worse is better approach
 
