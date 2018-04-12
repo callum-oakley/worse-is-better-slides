@@ -1,0 +1,46 @@
+body {
+  color: #000000;
+  line-height: 1.5;
+  text-rendering: optimizeLegibility;
+  font-family: Nitti;
+  font-weight: 300;
+}
+
+h1, h2, h3 {
+  font-style: normal;
+  font-weight: inherit;
+}
+
+h1 {
+  text-align: center;
+}
+
+.remark-code {
+  font-size: inherit;
+}
+
+.remark-slide-content {
+  background-color: #ffffff;
+  vertical-align: middle;
+}
+
+.remark-slide-scaler {
+  box-shadow: unset;
+}
+
+.remark-slide-number {
+  color: #000000;
+  opacity: unset;
+}
+
+.remark-container {
+  background-color: #ffffff;
+}
+
+a {
+  color: inherit;
+}
+
+blockquote {
+  font-style: italic;
+}
