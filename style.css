@@ -2,7 +2,7 @@ body {
   color: #000000;
   line-height: 1.5;
   text-rendering: optimizeLegibility;
-  font-family: Nitti;
+  font-family: Nitti, monospace;
   font-weight: 300;
 }
 
